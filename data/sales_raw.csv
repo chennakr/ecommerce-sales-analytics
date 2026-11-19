@@ -1,0 +1,802 @@
+order_id,order_date,customer_id,product_id,product_name,category,quantity,unit_price,region
+O00001,2025-11-24,C0004,P002,Mechanical Keyboard,Electronics,2,62.0,South
+O00002,2025-02-22,C0012,P009,Headphones,Electronics,1,71.65,North
+O00003,2025-04-22,C0065,P004,Water Bottle,Home,1,14.33,Central
+O00004,2025-08-03,C0058,P004,Water Bottle,Home,1,15.09,North
+O00005,2025-03-23,C0044,P007,Backpack,Accessories,1,45.47,East
+O00006,2025-02-22,,P002,Mechanical Keyboard,Electronics,1,70.62,Central
+O00007,2025-05-16,C0094,P001,Wireless Mouse,Electronics,1,17.16,West
+O00008,2025-02-10,C0038,P009,Headphones,Electronics,2,81.85,East
+O00009,2025-10-23,C0091,P004,Water Bottle,Home,1,14.64,East
+O00010,2025-02-10,C0111,P004,Water Bottle,Home,1,13.46,East
+O00011,2025-03-25,C0046,P006,Notebook Set,Stationery,1,9.11,North
+O00012,2025-11-08,C0069,P003,USB-C Hub,Electronics,2,29.95,West
+O00013,2025-05-19,C0029,P009,Headphones,Electronics,2,85.75,North
+O00014,2025-04-28,C0104,P001,Wireless Mouse,Electronics,1,17.74,South
+O00015,2025-10-18,C0028,P006,Notebook Set,Stationery,2,9.38,West
+O00016,2025-03-15,C0018,P005,Desk Lamp,Home,1,28.15,East
+O00017,2025-10-27,C0115,P007,Backpack,Accessories,1,47.02,South
+O00018,2025-09-18,C0012,P008,Phone Stand,Accessories,2,13.07,South
+O00019,2025-11-18,C0102,P003,USB-C Hub,Electronics,0,33.0,West
+O00020,2025-07-15,C0060,P010,Coffee Mug,Home,1,12.25,North
+O00021,2025-12-15,C0088,P002,Mechanical Keyboard,Electronics,3,69.24,East
+O00022,2025-02-27,C0056,P005,Desk Lamp,Home,1,24.77,East
+O00023,2025-09-14,C0065,P003,USB-C Hub,Electronics,3,34.93,East
+O00024,2025-11-24,C0078,P009,Headphones,Electronics,1,77.6,South
+O00025,2025-10-04,C0118,P009,Headphones,Electronics,1,76.73,North
+O00026,2025-02-27,C0113,P006,Notebook Set,Stationery,4,10.24,South
+O00027,2025-01-30,C0113,P004,Water Bottle,Home,1,12.84,West
+O00028,2025-02-05,C0099,P009,Headphones,Electronics,1,82.57,Central
+O00029,2025-03-26,C0068,P005,Desk Lamp,Home,3,27.31,South
+O00030,2025-10-04,C0092,P004,Water Bottle,Home,1,15.67,East
+O00031,2025-08-13,C0058,P009,Headphones,Electronics,1,75.01,East
+O00032,2025-01-11,C0071,P010,Coffee Mug,Home,1,10.43,North
+O00033,2025-12-29,C0030,P001,Wireless Mouse,Electronics,1,16.78,East
+O00034,2025-02-06,C0031,P009,Headphones,Electronics,1,79.54,Central
+O00035,not-a-date,C0074,P010,Coffee Mug,Home,1,11.8,West
+O00036,2025-04-08,C0013,P002,Mechanical Keyboard,Electronics,2,63.57,West
+O00037,2025-08-28,C0087,P001,Wireless Mouse,Electronics,2,19.28,North
+O00038,2025-07-26,C0103,P006,Notebook Set,Stationery,2,9.07,South
+O00039,2025-10-02,C0018,P008,Phone Stand,Accessories,1,11.54,South
+O00040,2025-02-08,C0104,P008,Phone Stand,Accessories,2,12.25,North
+O00041,2025-11-30,C0108,P009,Headphones,Electronics,1,72.72,South
+O00042,2025-03-27,C0063,P007,Backpack,Accessories,1,52.33,North
+O00043,2025-03-26,C0001,P007,Backpack,Accessories,4,46.0,West
+O00044,2025-05-27,C0090,P007,Backpack,Accessories,3,53.71,Central
+O00045,2025-12-05,C0020,P008,Phone Stand,Accessories,1,11.37,North
+O00046,2025-10-24,C0008,P009,Headphones,Electronics,2,72.09,Central
+O00047,2025-09-02,C0118,P009,Headphones,Electronics,2,73.84,Central
+O00048,2025-02-11,C0009,P003,USB-C Hub,Electronics,1,33.55,South
+O00049,2025-07-26,C0114,P002,Mechanical Keyboard,Electronics,1,66.78,North
+O00050,2025-11-14,C0054,P002,Mechanical Keyboard,Electronics,2,66.58,East
+O00051,2025-05-14,C0086,P004,Water Bottle,Home,2,13.34,West
+O00052,2025-03-09,C0059,P005,Desk Lamp,Home,1,29.3,North
+O00053,2025-01-05,C0080,P008,Phone Stand,Accessories,4,13.43,North
+O00054,2025-10-03,C0065,P004,Water Bottle,Home,1,15.47,North
+O00055,2025-05-06,C0037,P006,Notebook Set,Stationery,1,10.29,East
+O00056,2025-11-10,C0002,P009,Headphones,Electronics,2,80.74,North
+O00057,2025-03-10,C0015,P005,Desk Lamp,Home,3,29.24,South
+O00058,2025-05-20,C0078,P005,Desk Lamp,Home,1,26.82,East
+O00059,2025-09-16,C0033,P008,Phone Stand,Accessories,3,13.03,North
+O00060,2025-11-21,C0107,P007,Backpack,Accessories,1,43.24,South
+O00061,2025-11-23,C0021,P005,Desk Lamp,Home,2,28.09,West
+O00062,2025-10-15,C0015,P001,Wireless Mouse,Electronics,1,20.24,South
+O00063,2025-10-07,C0107,P001,Wireless Mouse,Electronics,1,18.9,West
+O00064,2025-03-07,C0040,P001,Wireless Mouse,Electronics,1,20.45,North
+O00065,2025-07-03,C0088,P004,Water Bottle,Home,1,12.92,Central
+O00066,2025-07-28,C0096,P010,Coffee Mug,Home,1,12.15,South
+O00067,2025-04-01,C0004,P007,Backpack,Accessories,1,52.96,West
+O00068,2025-12-09,C0035,P004,Water Bottle,Home,1,14.76,West
+O00069,2025-01-20,C0029,P008,Phone Stand,Accessories,1,13.22,East
+O00070,2025-06-06,C0029,P004,Water Bottle,Home,1,13.19,East
+O00071,2025-05-23,C0099,P002,Mechanical Keyboard,Electronics,1,67.67,West
+O00072,2025-12-14,C0043,P009,Headphones,Electronics,3,73.1,East
+O00073,2025-04-02,C0034,P010,Coffee Mug,Home,1,11.34,East
+O00074,2025-06-10,C0078,P007,Backpack,Accessories,4,44.42,Central
+O00075,2025-04-08,C0006,P005,Desk Lamp,Home,2,24.76,Central
+O00076,2025-12-18,C0047,P004,Water Bottle,Home,1,15.52,East
+O00077,2025-11-16,C0085,P006,Notebook Set,Stationery,2,10.05,East
+O00078,2025-09-17,C0086,P005,Desk Lamp,Home,1,27.18,East
+O00079,2025-10-11,C0025,P003,USB-C Hub,Electronics,1,35.42,South
+O00080,2025-11-12,C0039,P010,Coffee Mug,Home,1,11.92,East
+O00081,2025-05-27,C0056,P004,Water Bottle,Home,2,14.47,East
+O00082,2025-08-27,C0057,P008,Phone Stand,Accessories,2,12.15,South
+O00083,2025-12-04,C0037,P002,Mechanical Keyboard,Electronics,1,67.55,East
+O00084,2025-02-17,C0087,P004,Water Bottle,Home,1,15.08,South
+O00085,2025-01-13,C0032,P001,Wireless Mouse,Electronics,4,19.14,North
+O00086,2025-08-22,C0114,P007,Backpack,Accessories,2,45.25,West
+O00087,2025-09-11,C0032,P007,Backpack,Accessories,1,50.46,North
+O00088,2025-08-06,C0023,P004,Water Bottle,Home,2,14.74,West
+O00089,2025-01-26,C0032,P009,Headphones,Electronics,3,73.21,South
+O00090,2025-08-26,C0072,P009,Headphones,Electronics,1,87.61,West
+O00091,2025-11-10,C0055,P009,Headphones,Electronics,2,80.62,South
+O00092,2025-09-01,C0034,P008,Phone Stand,Accessories,2,13.02,East
+O00093,2025-09-24,C0081,P008,Phone Stand,Accessories,1,11.96,East
+O00094,2025-05-01,C0043,P005,Desk Lamp,Home,1,28.02,South
+O00095,2025-03-19,C0050,P004,Water Bottle,Home,2,14.78,North
+O00096,2025-08-01,C0043,P007,Backpack,Accessories,1,47.59,South
+O00097,2025-08-04,C0116,P007,Backpack,Accessories,2,53.19,North
+O00098,2025-10-22,C0062,P007,Backpack,Accessories,1,46.91,West
+O00099,2025-08-03,C0096,P009,Headphones,Electronics,2,85.0,South
+O00100,2025-09-07,C0035,P004,Water Bottle,Home,1,12.69,East
+O00101,2025-12-09,C0093,P007,Backpack,Accessories,1,48.14,South
+O00102,2025-11-15,C0004,P009,Headphones,Electronics,3,81.39,North
+O00103,2025-02-12,C0018,P007,Backpack,Accessories,2,45.12,East
+O00104,2025-07-14,C0028,P006,Notebook Set,Stationery,1,9.26,West
+O00105,2025-05-23,C0033,P007,Backpack,Accessories,2,48.17,Central
+O00106,2025-01-27,C0029,P006,Notebook Set,Stationery,2,10.18,North
+O00107,2025-01-16,C0026,P004,Water Bottle,Home,2,14.51,South
+O00108,2025-03-06,C0086,P008,Phone Stand,Accessories,1,13.3,West
+O00109,2025-12-25,C0099,P005,Desk Lamp,Home,1,28.42,North
+O00110,2025-03-25,C0014,P005,Desk Lamp,Home,1,30.37,Central
+O00111,2025-12-13,C0051,P007,Backpack,Accessories,3,45.29,Central
+O00112,2025-12-20,C0014,P004,Water Bottle,Home,2,13.53,Central
+O00113,2025-03-03,C0101,P010,Coffee Mug,Home,1,11.19,East
+O00114,2025-02-05,C0083,P009,Headphones,Electronics,1,85.87,West
+O00115,2025-02-24,C0047,P007,Backpack,Accessories,2,51.95,South
+O00116,2025-08-11,C0094,P003,USB-C Hub,Electronics,1,33.38,Central
+O00117,2025-10-03,C0060,P008,Phone Stand,Accessories,1,12.73,East
+O00118,2025-06-15,C0107,P004,Water Bottle,Home,3,13.46,West
+O00119,2025-05-05,C0073,P008,Phone Stand,Accessories,1,11.8,North
+O00120,2025-09-11,C0024,P006,Notebook Set,Stationery,1,9.29,East
+O00121,2025-06-24,C0113,P005,Desk Lamp,Home,1,30.07,Central
+O00122,2025-01-06,C0025,P009,Headphones,Electronics,1,83.61,West
+O00123,2025-10-12,C0089,P004,Water Bottle,Home,1,14.79,West
+O00124,2025-01-09,C0038,P002,Mechanical Keyboard,Electronics,1,68.39,East
+O00125,2025-12-06,C0048,P010,Coffee Mug,Home,1,11.18,West
+O00126,2025-10-09,C0046,P006,Notebook Set,Stationery,2,9.12,East
+O00127,2025-04-29,C0093,P002,Mechanical Keyboard,Electronics,1,60.21,Central
+O00128,2025-12-20,C0025,P003,USB-C Hub,Electronics,1,32.21,Central
+O00129,2025-09-26,C0037,P010,Coffee Mug,Home,4,11.91,East
+O00130,2025-04-27,C0023,P006,Notebook Set,Stationery,1,10.03,South
+O00131,2025-05-21,C0007,P001,Wireless Mouse,Electronics,1,19.49,South
+O00132,2025-11-23,C0014,P008,Phone Stand,Accessories,3,12.32,West
+O00133,2025-09-03,C0044,P008,Phone Stand,Accessories,1,10.94,West
+O00134,2025-02-28,C0052,P002,Mechanical Keyboard,Electronics,1,66.75,North
+O00135,2025-03-19,C0104,P003,USB-C Hub,Electronics,1,30.94,South
+O00136,2025-03-02,C0098,P009,Headphones,Electronics,1,81.46,Central
+O00137,2025-04-26,C0049,P009,Headphones,Electronics,1,78.79,Central
+O00138,2025-08-08,C0073,P005,Desk Lamp,Home,2,28.44,North
+O00139,2025-04-17,C0034,P004,Water Bottle,Home,2,13.08,South
+O00140,2025-10-10,C0021,P002,Mechanical Keyboard,Electronics,1,64.94,Central
+O00141,2025-08-29,C0005,P005,Desk Lamp,Home,1,29.03,West
+O00142,2025-02-06,C0119,P004,Water Bottle,Home,1,15.04,Central
+O00143,2025-12-05,C0055,P004,Water Bottle,Home,1,13.29,South
+O00144,2025-05-17,C0010,P003,USB-C Hub,Electronics,1,34.38,Central
+O00145,2025-10-19,C0057,P005,Desk Lamp,Home,1,28.92,West
+O00146,2025-05-20,C0070,P009,Headphones,Electronics,1,72.5,North
+O00147,2025-08-10,C0078,P006,Notebook Set,Stationery,1,8.74,Central
+O00148,2025-10-28,C0098,P001,Wireless Mouse,Electronics,2,17.75,North
+O00149,2025-03-31,C0067,P008,Phone Stand,Accessories,2,13.22,South
+O00150,2025-10-27,C0082,P007,Backpack,Accessories,2,53.43,West
+O00151,2025-06-28,C0043,P007,Backpack,Accessories,1,44.3,South
+O00152,2025-06-18,C0089,P007,Backpack,Accessories,1,50.2,West
+O00153,2025-10-09,C0059,P001,Wireless Mouse,Electronics,1,17.68,North
+O00154,2025-07-26,C0106,P009,Headphones,Electronics,4,82.53,Central
+O00155,2025-08-25,C0007,P007,Backpack,Accessories,1,47.02,West
+O00156,2025-11-17,C0098,P008,Phone Stand,Accessories,1,11.51,South
+O00157,2025-05-28,C0113,P008,Phone Stand,Accessories,2,11.12,Central
+O00158,2025-05-03,C0040,P003,USB-C Hub,Electronics,1,32.69,North
+O00159,2025-04-26,C0060,P002,Mechanical Keyboard,Electronics,3,67.76,South
+O00160,2025-09-13,C0066,P005,Desk Lamp,Home,2,27.26,West
+O00161,2025-08-30,C0059,P004,Water Bottle,Home,1,13.78,Central
+O00162,2025-09-18,C0111,P003,USB-C Hub,Electronics,1,34.24,West
+O00163,2025-06-24,C0035,P009,Headphones,Electronics,2,76.02,East
+O00164,2025-10-28,C0085,P010,Coffee Mug,Home,1,10.26,Central
+O00165,2025-09-05,C0043,P006,Notebook Set,Stationery,1,9.69,West
+O00166,2025-06-14,C0090,P004,Water Bottle,Home,1,13.78,West
+O00167,2025-01-23,C0096,P006,Notebook Set,Stationery,1,10.46,West
+O00168,2025-07-17,C0064,P003,USB-C Hub,Electronics,3,29.69,Central
+O00169,2025-06-19,C0112,P002,Mechanical Keyboard,Electronics,2,59.93,West
+O00170,2025-01-08,C0053,P003,USB-C Hub,Electronics,3,35.63,North
+O00171,2025-08-29,C0044,P005,Desk Lamp,Home,2,27.15,North
+O00172,2025-06-18,C0049,P009,Headphones,Electronics,3,81.99,West
+O00173,2025-10-05,C0080,P001,Wireless Mouse,Electronics,1,19.22,East
+O00174,2025-04-27,C0056,P002,Mechanical Keyboard,Electronics,4,69.37,North
+O00175,2025-08-16,C0089,P003,USB-C Hub,Electronics,1,29.0,East
+O00176,2025-01-29,C0046,P005,Desk Lamp,Home,1,25.63,Central
+O00177,2025-07-30,C0088,P010,Coffee Mug,Home,2,10.31,North
+O00178,2025-11-09,C0080,P007,Backpack,Accessories,2,48.46,Central
+O00179,2025-03-15,C0060,P004,Water Bottle,Home,2,14.02,North
+O00180,2025-08-27,C0087,P005,Desk Lamp,Home,1,25.2,East
+O00181,2025-10-28,C0082,P005,Desk Lamp,Home,3,28.93,West
+O00182,2025-06-04,C0050,P004,Water Bottle,Home,2,12.93,West
+O00183,2025-10-20,C0074,P006,Notebook Set,Stationery,1,10.01,North
+O00184,2025-12-04,C0036,P007,Backpack,Accessories,1,52.34,North
+O00185,2025-11-07,C0107,P008,Phone Stand,Accessories,3,11.56,South
+O00186,2025-11-07,C0029,P006,Notebook Set,Stationery,2,9.85,South
+O00187,2025-11-18,C0116,P002,Mechanical Keyboard,Electronics,2,59.06,West
+O00188,2025-01-18,C0047,P010,Coffee Mug,Home,2,10.12,East
+O00189,2025-06-17,C0023,P007,Backpack,Accessories,1,51.51,East
+O00190,2025-09-29,C0117,P009,Headphones,Electronics,1,73.96,West
+O00191,2025-06-01,C0103,P006,Notebook Set,Stationery,1,10.56,South
+O00192,2025-04-26,C0109,P007,Backpack,Accessories,2,47.06,West
+O00193,2025-01-08,C0069,P005,Desk Lamp,Home,1,26.98,East
+O00194,2025-10-27,C0106,P007,Backpack,Accessories,2,47.12,South
+O00195,2025-08-30,C0080,P001,Wireless Mouse,Electronics,3,18.93,Central
+O00196,2025-04-24,C0082,P002,Mechanical Keyboard,Electronics,2,71.5,East
+O00197,2025-11-29,C0015,P007,Backpack,Accessories,1,53.19,East
+O00198,2025-09-10,C0013,P002,Mechanical Keyboard,Electronics,1,66.19,West
+O00199,2025-08-21,C0086,P006,Notebook Set,Stationery,3,10.01,Central
+O00200,2025-08-03,C0096,P010,Coffee Mug,Home,2,12.04,North
+O00201,2025-09-08,C0053,P010,Coffee Mug,Home,3,10.58,East
+O00202,2025-04-22,C0057,P008,Phone Stand,Accessories,3,13.06,North
+O00203,2025-12-18,C0070,P006,Notebook Set,Stationery,3,9.9,North
+O00204,2025-07-23,C0025,P005,Desk Lamp,Home,3,30.49,West
+O00205,2025-02-16,C0083,P004,Water Bottle,Home,2,15.59,North
+O00206,2025-06-20,C0017,P004,Water Bottle,Home,2,13.23,Central
+O00207,2025-04-17,C0028,P010,Coffee Mug,Home,2,10.46,South
+O00208,2025-11-02,C0036,P001,Wireless Mouse,Electronics,2,17.24,South
+O00209,2025-10-04,C0103,P005,Desk Lamp,Home,1,28.75,North
+O00210,2025-03-09,C0046,P001,Wireless Mouse,Electronics,2,17.62,East
+O00211,2025-01-09,C0034,P003,USB-C Hub,Electronics,1,34.02,Central
+O00212,2025-02-28,C0061,P002,Mechanical Keyboard,Electronics,1,63.68,Central
+O00213,2025-02-25,C0065,P008,Phone Stand,Accessories,1,12.42,Central
+O00214,2025-06-04,C0083,P008,Phone Stand,Accessories,3,10.96,West
+O00215,2025-07-25,C0088,P007,Backpack,Accessories,1,50.72,West
+O00216,2025-02-07,C0042,P002,Mechanical Keyboard,Electronics,1,59.44,East
+O00217,2025-11-16,C0071,P010,Coffee Mug,Home,2,10.82,Central
+O00218,2025-09-29,C0059,P005,Desk Lamp,Home,1,27.35,North
+O00219,2025-12-02,C0093,P009,Headphones,Electronics,2,78.57,South
+O00220,2025-07-31,C0106,P006,Notebook Set,Stationery,1,9.42,North
+O00221,2025-06-10,C0041,P007,Backpack,Accessories,2,47.15,South
+O00222,2025-12-18,C0009,P008,Phone Stand,Accessories,1,11.03,West
+O00223,2025-02-19,C0104,P006,Notebook Set,Stationery,1,8.68,Central
+O00224,2025-10-15,C0086,P006,Notebook Set,Stationery,1,9.29,West
+O00225,2025-01-27,C0077,P005,Desk Lamp,Home,1,25.38,Central
+O00226,2025-04-19,C0085,P003,USB-C Hub,Electronics,1,34.76,East
+O00227,2025-10-12,C0015,P006,Notebook Set,Stationery,2,9.75,West
+O00228,2025-10-15,C0079,P010,Coffee Mug,Home,2,11.25,Central
+O00229,2025-12-03,C0004,P005,Desk Lamp,Home,1,29.0,East
+O00230,2025-06-23,C0001,P006,Notebook Set,Stationery,1,8.85,West
+O00231,2025-02-05,C0095,P003,USB-C Hub,Electronics,2,29.02,Central
+O00232,2025-04-21,C0054,P007,Backpack,Accessories,1,44.86,East
+O00233,2025-06-16,C0077,P010,Coffee Mug,Home,1,10.03,South
+O00234,2025-11-13,C0087,P001,Wireless Mouse,Electronics,1,18.45,West
+O00235,2025-09-06,C0057,P010,Coffee Mug,Home,1,10.42,Central
+O00236,2025-02-28,C0056,P006,Notebook Set,Stationery,1,9.97,Central
+O00237,2025-09-07,C0086,P009,Headphones,Electronics,1,74.93,Central
+O00238,2025-01-29,C0027,P001,Wireless Mouse,Electronics,1,17.51,South
+O00239,2025-05-11,C0042,P005,Desk Lamp,Home,1,27.76,West
+O00240,2025-03-31,C0049,P003,USB-C Hub,Electronics,1,30.42,Central
+O00241,2025-12-09,C0010,P006,Notebook Set,Stationery,1,10.1,West
+O00242,2025-01-10,C0118,P008,Phone Stand,Accessories,1,11.63,West
+O00243,2025-10-21,C0091,P007,Backpack,Accessories,2,46.26,West
+O00244,2025-01-11,C0022,P006,Notebook Set,Stationery,2,9.84,East
+O00245,2025-02-15,C0109,P007,Backpack,Accessories,1,47.8,West
+O00246,2025-09-26,C0051,P002,Mechanical Keyboard,Electronics,3,69.17,South
+O00247,2025-06-20,C0010,P003,USB-C Hub,Electronics,1,29.6,Central
+O00248,2025-04-10,C0045,P006,Notebook Set,Stationery,2,10.26,South
+O00249,2025-05-01,C0019,P002,Mechanical Keyboard,Electronics,1,60.98,South
+O00250,2025-12-02,C0023,P002,Mechanical Keyboard,Electronics,3,67.48,West
+O00251,2025-10-16,C0058,P010,Coffee Mug,Home,2,12.03,Central
+O00252,2025-06-15,C0020,P006,Notebook Set,Stationery,1,9.53,East
+O00253,2025-05-21,C0008,P010,Coffee Mug,Home,1,10.08,West
+O00254,2025-08-20,C0008,P001,Wireless Mouse,Electronics,1,17.82,North
+O00255,2025-11-11,C0065,P010,Coffee Mug,Home,1,11.3,North
+O00256,2025-08-19,C0084,P010,Coffee Mug,Home,1,11.36,Central
+O00257,2025-03-19,C0058,P001,Wireless Mouse,Electronics,1,20.31,East
+O00258,2025-02-13,C0083,P009,Headphones,Electronics,1,75.41,West
+O00259,2025-08-13,C0067,P009,Headphones,Electronics,1,77.42,East
+O00260,2025-07-18,C0100,P007,Backpack,Accessories,1,49.51,East
+O00261,2025-02-03,C0013,P006,Notebook Set,Stationery,1,9.36,East
+O00262,2025-12-03,C0112,P010,Coffee Mug,Home,1,10.1,South
+O00263,2025-06-29,C0084,P005,Desk Lamp,Home,2,27.12,Central
+O00264,2025-12-29,C0040,P002,Mechanical Keyboard,Electronics,1,67.7,East
+O00265,2025-03-07,C0012,P009,Headphones,Electronics,2,78.46,East
+O00266,2025-01-10,C0040,P006,Notebook Set,Stationery,1,9.0,West
+O00267,2025-04-09,C0018,P004,Water Bottle,Home,1,13.51,North
+O00268,2025-09-17,C0107,P009,Headphones,Electronics,2,80.25,East
+O00269,2025-11-13,C0077,P003,USB-C Hub,Electronics,1,29.94,Central
+O00270,2025-03-26,C0006,P008,Phone Stand,Accessories,1,12.59,South
+O00271,2025-08-16,C0037,P010,Coffee Mug,Home,2,11.8,South
+O00272,2025-10-01,C0040,P004,Water Bottle,Home,3,15.02,South
+O00273,2025-07-08,C0057,P010,Coffee Mug,Home,1,10.58,West
+O00274,2025-09-15,C0054,P009,Headphones,Electronics,3,85.3,Central
+O00275,2025-03-12,C0007,P005,Desk Lamp,Home,2,30.04,Central
+O00276,2025-02-22,C0109,P009,Headphones,Electronics,1,72.56,South
+O00277,2025-05-20,C0116,P008,Phone Stand,Accessories,1,12.99,North
+O00278,2025-04-24,C0114,P008,Phone Stand,Accessories,1,10.87,North
+O00279,2025-07-22,C0048,P009,Headphones,Electronics,1,88.38,East
+O00280,2025-04-25,C0041,P001,Wireless Mouse,Electronics,3,20.07,East
+O00281,2025-03-16,C0005,P003,USB-C Hub,Electronics,1,34.64,South
+O00282,2025-12-28,C0058,P008,Phone Stand,Accessories,1,13.19,North
+O00283,2025-05-12,C0107,P004,Water Bottle,Home,1,15.5,Central
+O00284,2025-09-28,C0015,P007,Backpack,Accessories,2,45.71,North
+O00285,2025-01-25,C0054,P004,Water Bottle,Home,2,14.52,North
+O00286,2025-02-26,C0077,P008,Phone Stand,Accessories,1,12.47,Central
+O00287,2025-05-04,C0038,P003,USB-C Hub,Electronics,1,33.13,South
+O00288,2025-10-20,C0024,P007,Backpack,Accessories,2,44.1,East
+O00289,2025-02-04,C0070,P009,Headphones,Electronics,1,88.28,Central
+O00290,2025-01-11,C0112,P007,Backpack,Accessories,1,49.91,East
+O00291,2025-05-10,C0046,P001,Wireless Mouse,Electronics,2,18.05,North
+O00292,2025-10-25,C0018,P006,Notebook Set,Stationery,1,9.69,South
+O00293,2025-12-17,C0090,P008,Phone Stand,Accessories,1,11.28,South
+O00294,2025-02-02,C0005,P008,Phone Stand,Accessories,1,10.92,South
+O00295,2025-01-22,C0120,P006,Notebook Set,Stationery,1,9.38,Central
+O00296,2025-08-31,C0005,P005,Desk Lamp,Home,2,25.91,East
+O00297,2025-01-25,C0035,P006,Notebook Set,Stationery,1,9.32,West
+O00298,2025-08-14,C0044,P007,Backpack,Accessories,4,48.44,West
+O00299,2025-07-08,C0035,P009,Headphones,Electronics,2,83.74,North
+O00300,2025-08-09,C0106,P010,Coffee Mug,Home,1,10.61,North
+O00301,2025-02-10,C0085,P006,Notebook Set,Stationery,1,9.48,West
+O00302,2025-03-27,C0045,P008,Phone Stand,Accessories,1,12.72,East
+O00303,2025-11-11,C0036,P007,Backpack,Accessories,2,51.56,North
+O00304,2025-02-08,C0047,P007,Backpack,Accessories,1,51.12,South
+O00305,2025-01-16,C0109,P003,USB-C Hub,Electronics,1,34.3,North
+O00306,2025-03-06,C0031,P002,Mechanical Keyboard,Electronics,2,63.74,West
+O00307,2025-10-18,C0078,P001,Wireless Mouse,Electronics,1,18.48,East
+O00308,2025-07-10,C0098,P008,Phone Stand,Accessories,1,11.16,East
+O00309,2025-07-23,C0084,P006,Notebook Set,Stationery,1,10.56,North
+O00310,2025-04-06,C0067,P008,Phone Stand,Accessories,1,12.28,East
+O00311,2025-05-14,C0028,P008,Phone Stand,Accessories,4,11.55,West
+O00312,2025-04-13,C0018,P002,Mechanical Keyboard,Electronics,2,64.96,West
+O00313,2025-02-14,C0086,P006,Notebook Set,Stationery,1,8.69,Central
+O00314,2025-05-29,C0109,P005,Desk Lamp,Home,1,29.04,South
+O00315,2025-07-05,C0029,P009,Headphones,Electronics,1,74.59,South
+O00316,2025-05-02,C0004,P008,Phone Stand,Accessories,1,12.31,West
+O00317,2025-10-10,C0079,P003,USB-C Hub,Electronics,3,29.26,West
+O00318,2025-09-03,C0053,P009,Headphones,Electronics,2,85.41,North
+O00319,2025-03-06,C0083,P006,Notebook Set,Stationery,1,9.52,Central
+O00320,2025-06-26,C0113,P003,USB-C Hub,Electronics,2,32.68,Central
+O00321,2025-04-04,C0056,P003,USB-C Hub,Electronics,1,34.91,North
+O00322,2025-09-23,C0039,P003,USB-C Hub,Electronics,1,31.07,South
+O00323,2025-06-27,C0115,P009,Headphones,Electronics,1,72.47,South
+O00324,2025-11-22,C0036,P009,Headphones,Electronics,1,76.36,Central
+O00325,2025-02-17,C0083,P009,Headphones,Electronics,1,87.47,South
+O00326,2025-03-29,C0093,P010,Coffee Mug,Home,3,10.72,Central
+O00327,2025-01-22,C0011,P001,Wireless Mouse,Electronics,1,19.26,Central
+O00328,2025-05-16,C0099,P004,Water Bottle,Home,1,14.5,North
+O00329,2025-09-12,C0038,P009,Headphones,Electronics,2,76.35,South
+O00330,2025-12-17,C0039,P007,Backpack,Accessories,1,50.47,South
+O00331,2025-08-14,C0062,P007,Backpack,Accessories,1,46.79,South
+O00332,2025-06-10,C0094,P006,Notebook Set,Stationery,4,9.27,West
+O00333,2025-03-08,C0066,P006,Notebook Set,Stationery,1,9.22,West
+O00334,2025-03-04,C0058,P005,Desk Lamp,Home,1,25.34,East
+O00335,2025-07-16,C0054,P010,Coffee Mug,Home,1,11.99,South
+O00336,2025-06-17,C0093,P010,Coffee Mug,Home,1,11.75,West
+O00337,2025-09-21,C0064,P008,Phone Stand,Accessories,3,12.11,North
+O00338,2025-07-21,C0059,P009,Headphones,Electronics,3,74.84,East
+O00339,2025-01-25,C0037,P001,Wireless Mouse,Electronics,1,20.24,West
+O00340,2025-05-27,C0002,P009,Headphones,Electronics,2,78.59,East
+O00341,2025-07-07,C0047,P007,Backpack,Accessories,1,43.74,Central
+O00342,2025-04-10,C0071,P006,Notebook Set,Stationery,1,9.36,West
+O00343,2025-10-09,C0106,P005,Desk Lamp,Home,4,28.87,North
+O00344,2025-03-07,C0051,P002,Mechanical Keyboard,Electronics,1,72.61,Central
+O00345,2025-07-07,C0026,P003,USB-C Hub,Electronics,1,31.63,North
+O00346,2025-01-24,C0018,P001,Wireless Mouse,Electronics,2,19.92,Central
+O00347,2025-08-22,C0078,P003,USB-C Hub,Electronics,3,29.78,Central
+O00348,2025-06-13,C0051,P003,USB-C Hub,Electronics,4,34.0,East
+O00349,2025-10-31,C0065,P006,Notebook Set,Stationery,2,9.66,Central
+O00350,2025-06-03,C0105,P008,Phone Stand,Accessories,1,11.67,North
+O00351,2025-08-02,C0040,P010,Coffee Mug,Home,2,11.66,North
+O00352,2025-11-02,C0034,P008,Phone Stand,Accessories,3,12.87,Central
+O00353,2025-10-23,C0093,P004,Water Bottle,Home,1,14.08,Central
+O00354,2025-11-19,C0100,P010,Coffee Mug,Home,2,10.26,South
+O00355,2025-01-17,C0090,P010,Coffee Mug,Home,1,9.95,East
+O00356,2025-08-03,C0053,P003,USB-C Hub,Electronics,2,31.69,Central
+O00357,2025-08-30,C0091,P001,Wireless Mouse,Electronics,1,17.49,East
+O00358,2025-12-06,C0068,P008,Phone Stand,Accessories,1,13.33,West
+O00359,2025-09-30,C0070,P006,Notebook Set,Stationery,1,10.16,East
+O00360,2025-11-09,C0025,P008,Phone Stand,Accessories,3,11.54,East
+O00361,2025-04-26,C0099,P005,Desk Lamp,Home,1,26.0,West
+O00362,2025-06-12,C0045,P008,Phone Stand,Accessories,1,13.27,East
+O00363,2025-05-28,C0074,P002,Mechanical Keyboard,Electronics,2,63.93,West
+O00364,2025-06-26,C0038,P003,USB-C Hub,Electronics,1,35.53,North
+O00365,2025-06-27,C0084,P008,Phone Stand,Accessories,1,12.06,South
+O00366,2025-10-03,C0120,P005,Desk Lamp,Home,1,26.39,North
+O00367,2025-11-12,C0031,P010,Coffee Mug,Home,1,11.52,Central
+O00368,2025-04-26,C0007,P004,Water Bottle,Home,1,13.62,West
+O00369,2025-02-21,C0001,P003,USB-C Hub,Electronics,3,35.68,South
+O00370,2025-07-28,C0062,P008,Phone Stand,Accessories,2,12.8,East
+O00371,2025-06-14,C0083,P005,Desk Lamp,Home,1,29.4,Central
+O00372,2025-04-29,C0095,P009,Headphones,Electronics,2,87.38,South
+O00373,2025-08-02,C0120,P003,USB-C Hub,Electronics,3,35.82,West
+O00374,2025-09-11,C0120,P003,USB-C Hub,Electronics,2,34.94,East
+O00375,2025-01-20,C0039,P001,Wireless Mouse,Electronics,1,17.09,East
+O00376,2025-05-26,C0083,P008,Phone Stand,Accessories,1,12.1,South
+O00377,2025-09-16,C0035,P008,Phone Stand,Accessories,1,11.1,South
+O00378,2025-08-23,C0092,P005,Desk Lamp,Home,1,29.21,East
+O00379,2025-10-18,C0023,P004,Water Bottle,Home,1,14.57,West
+O00380,2025-08-07,C0042,P009,Headphones,Electronics,1,82.73,South
+O00381,2025-03-13,C0042,P008,Phone Stand,Accessories,3,10.82,West
+O00382,2025-05-01,C0097,P008,Phone Stand,Accessories,1,11.67,Central
+O00383,2025-10-21,C0034,P001,Wireless Mouse,Electronics,2,19.47,North
+O00384,2025-12-08,C0060,P002,Mechanical Keyboard,Electronics,1,64.3,Central
+O00385,2025-12-27,C0089,P005,Desk Lamp,Home,1,30.29,East
+O00386,2025-07-08,C0029,P010,Coffee Mug,Home,1,10.22,South
+O00387,2025-08-21,C0048,P010,Coffee Mug,Home,1,11.23,West
+O00388,2025-10-03,C0098,P004,Water Bottle,Home,1,14.92,North
+O00389,2025-09-27,C0068,P008,Phone Stand,Accessories,2,11.01,Central
+O00390,2025-02-27,C0107,P001,Wireless Mouse,Electronics,1,18.71,Central
+O00391,2025-10-02,C0022,P003,USB-C Hub,Electronics,1,32.46,North
+O00392,2025-12-15,C0092,P004,Water Bottle,Home,1,12.88,Central
+O00393,2025-08-17,C0059,P001,Wireless Mouse,Electronics,1,18.34,Central
+O00394,2025-01-30,C0060,P009,Headphones,Electronics,2,76.46,North
+O00395,2025-07-22,C0105,P005,Desk Lamp,Home,1,26.07,North
+O00396,2025-01-24,C0045,P007,Backpack,Accessories,2,48.91,North
+O00397,2025-02-05,C0005,P008,Phone Stand,Accessories,1,11.28,South
+O00398,2025-11-25,C0048,P007,Backpack,Accessories,4,47.24,West
+O00399,2025-07-12,C0088,P002,Mechanical Keyboard,Electronics,3,71.01,South
+O00400,2025-12-01,C0016,P006,Notebook Set,Stationery,1,9.67,Central
+O00401,2025-03-07,C0107,P004,Water Bottle,Home,1,12.67,East
+O00402,2025-08-26,C0055,P009,Headphones,Electronics,1,85.41,South
+O00403,2025-08-24,C0020,P006,Notebook Set,Stationery,1,10.51,North
+O00404,2025-01-17,C0079,P007,Backpack,Accessories,2,52.53,North
+O00405,2025-05-04,C0009,P004,Water Bottle,Home,1,12.7,Central
+O00406,2025-12-11,C0032,P001,Wireless Mouse,Electronics,2,18.29,South
+O00407,2025-10-04,C0097,P004,Water Bottle,Home,2,12.77,Central
+O00408,2025-05-29,C0105,P004,Water Bottle,Home,3,14.37,Central
+O00409,2025-11-03,C0031,P006,Notebook Set,Stationery,1,8.85,Central
+O00410,2025-04-24,C0039,P007,Backpack,Accessories,1,49.08,Central
+O00411,2025-03-31,C0072,P007,Backpack,Accessories,1,53.47,West
+O00412,2025-09-26,C0090,P006,Notebook Set,Stationery,1,8.86,West
+O00413,2025-04-05,C0061,P009,Headphones,Electronics,1,75.02,South
+O00414,2025-08-26,C0072,P001,Wireless Mouse,Electronics,1,18.35,Central
+O00415,2025-03-10,C0032,P007,Backpack,Accessories,1,46.69,North
+O00416,2025-08-19,C0012,P006,Notebook Set,Stationery,1,10.28,North
+O00417,2025-05-18,C0087,P007,Backpack,Accessories,1,43.62,North
+O00418,2025-04-07,C0093,P010,Coffee Mug,Home,2,10.43,South
+O00419,2025-06-20,C0117,P005,Desk Lamp,Home,1,30.42,North
+O00420,2025-09-03,C0090,P004,Water Bottle,Home,1,13.23,South
+O00421,2025-10-10,C0100,P006,Notebook Set,Stationery,1,9.52,East
+O00422,2025-06-07,C0047,P005,Desk Lamp,Home,1,27.76,North
+O00423,2025-08-29,C0118,P006,Notebook Set,Stationery,1,9.2,North
+O00424,2025-10-16,C0095,P004,Water Bottle,Home,1,13.4,Central
+O00425,2025-10-24,C0038,P007,Backpack,Accessories,1,46.68,West
+O00426,2025-10-19,C0064,P004,Water Bottle,Home,1,15.51,East
+O00427,2025-05-12,C0093,P008,Phone Stand,Accessories,2,12.1,South
+O00428,2025-06-30,C0018,P003,USB-C Hub,Electronics,2,32.24,Central
+O00429,2025-11-25,C0068,P001,Wireless Mouse,Electronics,1,20.1,North
+O00430,2025-01-04,C0018,P007,Backpack,Accessories,2,45.64,South
+O00431,2025-01-05,C0065,P004,Water Bottle,Home,1,12.79,Central
+O00432,2025-09-05,C0003,P008,Phone Stand,Accessories,1,12.26,North
+O00433,2025-01-09,C0093,P009,Headphones,Electronics,1,88.09,North
+O00434,2025-09-15,C0104,P007,Backpack,Accessories,3,45.09,North
+O00435,2025-09-26,C0031,P003,USB-C Hub,Electronics,1,32.51,East
+O00436,2025-05-17,C0011,P007,Backpack,Accessories,1,47.49,Central
+O00437,2025-05-05,C0039,P004,Water Bottle,Home,2,15.21,North
+O00438,2025-02-17,C0049,P007,Backpack,Accessories,1,48.23,North
+O00439,2025-12-26,C0011,P003,USB-C Hub,Electronics,1,31.85,East
+O00440,2025-10-17,C0115,P002,Mechanical Keyboard,Electronics,1,59.11,South
+O00441,2025-12-21,C0061,P010,Coffee Mug,Home,1,12.14,East
+O00442,2025-10-06,C0085,P010,Coffee Mug,Home,1,12.15,East
+O00443,2025-01-09,C0076,P004,Water Bottle,Home,1,15.13,West
+O00444,2025-02-09,C0021,P005,Desk Lamp,Home,1,28.18,West
+O00445,2025-12-13,C0043,P009,Headphones,Electronics,1,83.96,North
+O00446,2025-09-14,C0007,P006,Notebook Set,Stationery,1,9.04,North
+O00447,2025-06-24,C0099,P010,Coffee Mug,Home,1,11.34,East
+O00448,2025-01-16,C0101,P005,Desk Lamp,Home,4,27.72,East
+O00449,2025-10-11,C0056,P007,Backpack,Accessories,1,49.39,West
+O00450,2025-02-13,C0038,P010,Coffee Mug,Home,2,11.63,North
+O00451,2025-05-18,C0049,P003,USB-C Hub,Electronics,2,33.26,West
+O00452,2025-06-12,C0014,P006,Notebook Set,Stationery,1,10.52,West
+O00453,2025-07-04,C0014,P005,Desk Lamp,Home,1,25.88,West
+O00454,2025-10-13,C0066,P009,Headphones,Electronics,1,71.56,East
+O00455,2025-10-11,C0077,P002,Mechanical Keyboard,Electronics,1,63.14,West
+O00456,2025-01-07,C0053,P005,Desk Lamp,Home,1,25.26,Central
+O00457,2025-05-05,C0067,P010,Coffee Mug,Home,1,10.82,South
+O00458,2025-05-18,C0035,P005,Desk Lamp,Home,1,25.13,West
+O00459,2025-05-22,C0039,P007,Backpack,Accessories,1,44.01,East
+O00460,2025-05-07,C0077,P008,Phone Stand,Accessories,1,12.01,South
+O00461,2025-06-05,C0051,P001,Wireless Mouse,Electronics,1,19.17,East
+O00462,2025-08-14,C0056,P006,Notebook Set,Stationery,2,10.35,Central
+O00463,2025-03-11,C0042,P005,Desk Lamp,Home,1,28.96,West
+O00464,2025-06-10,C0051,P003,USB-C Hub,Electronics,3,30.85,West
+O00465,2025-10-22,C0042,P004,Water Bottle,Home,1,15.11,West
+O00466,2025-07-06,C0120,P002,Mechanical Keyboard,Electronics,1,66.97,Central
+O00467,2025-04-03,C0004,P009,Headphones,Electronics,3,79.12,South
+O00468,2025-08-13,C0107,P005,Desk Lamp,Home,2,29.7,West
+O00469,2025-12-11,C0018,P008,Phone Stand,Accessories,2,11.44,South
+O00470,2025-08-05,C0010,P007,Backpack,Accessories,1,49.51,Central
+O00471,2025-07-25,C0065,P009,Headphones,Electronics,3,86.21,West
+O00472,2025-10-06,C0102,P001,Wireless Mouse,Electronics,3,19.51,Central
+O00473,2025-11-01,C0014,P002,Mechanical Keyboard,Electronics,2,67.9,East
+O00474,2025-03-27,C0006,P010,Coffee Mug,Home,1,11.46,West
+O00475,2025-06-19,C0014,P007,Backpack,Accessories,1,45.93,Central
+O00476,2025-09-23,C0075,P009,Headphones,Electronics,2,74.94,East
+O00477,2025-07-20,C0099,P008,Phone Stand,Accessories,2,12.62,South
+O00478,2025-06-26,C0062,P001,Wireless Mouse,Electronics,1,18.34,North
+O00479,2025-03-01,C0045,P003,USB-C Hub,Electronics,1,32.01,South
+O00480,2025-09-24,C0045,P008,Phone Stand,Accessories,1,11.96,West
+O00481,2025-06-13,C0039,P002,Mechanical Keyboard,Electronics,1,68.66,North
+O00482,2025-06-25,C0087,P002,Mechanical Keyboard,Electronics,2,71.8,South
+O00483,2025-09-22,C0071,P003,USB-C Hub,Electronics,1,32.74,West
+O00484,2025-04-29,C0081,P007,Backpack,Accessories,1,49.96,West
+O00485,2025-07-22,C0095,P001,Wireless Mouse,Electronics,1,17.45,Central
+O00486,2025-08-08,C0001,P007,Backpack,Accessories,2,45.37,North
+O00487,2025-10-23,C0103,P002,Mechanical Keyboard,Electronics,3,61.17,East
+O00488,2025-04-11,C0015,P008,Phone Stand,Accessories,1,13.08,Central
+O00489,2025-11-24,C0077,P006,Notebook Set,Stationery,1,9.37,North
+O00490,2025-06-28,C0109,P006,Notebook Set,Stationery,1,8.91,East
+O00491,2025-11-11,C0011,P010,Coffee Mug,Home,2,10.66,South
+O00492,2025-06-06,C0024,P002,Mechanical Keyboard,Electronics,1,60.52,West
+O00493,2025-08-03,C0018,P010,Coffee Mug,Home,1,10.92,West
+O00494,2025-11-22,C0089,P009,Headphones,Electronics,3,87.28,South
+O00495,2025-10-12,C0063,P003,USB-C Hub,Electronics,1,30.12,West
+O00496,2025-11-14,C0111,P001,Wireless Mouse,Electronics,1,16.69,South
+O00497,2025-04-10,C0072,P007,Backpack,Accessories,1,48.43,West
+O00498,2025-08-01,C0063,P008,Phone Stand,Accessories,1,12.29,South
+O00499,2025-05-30,C0036,P001,Wireless Mouse,Electronics,1,17.82,West
+O00500,2025-10-17,C0071,P008,Phone Stand,Accessories,1,12.31,East
+O00501,2025-10-06,C0070,P006,Notebook Set,Stationery,2,8.64,West
+O00502,2025-10-07,C0055,P004,Water Bottle,Home,1,15.16,South
+O00503,2025-06-02,C0058,P001,Wireless Mouse,Electronics,1,20.16,North
+O00504,2025-08-13,C0100,P002,Mechanical Keyboard,Electronics,2,61.5,Central
+O00505,2025-12-19,C0111,P006,Notebook Set,Stationery,2,9.87,South
+O00506,2025-11-12,C0101,P003,USB-C Hub,Electronics,1,30.26,North
+O00507,2025-10-19,C0069,P006,Notebook Set,Stationery,1,9.68,East
+O00508,2025-12-27,C0038,P005,Desk Lamp,Home,1,30.51,Central
+O00509,2025-12-14,C0018,P002,Mechanical Keyboard,Electronics,3,69.74,North
+O00510,2025-05-22,C0090,P003,USB-C Hub,Electronics,2,30.56,East
+O00511,2025-05-07,C0063,P007,Backpack,Accessories,1,49.88,West
+O00512,2025-07-12,C0010,P008,Phone Stand,Accessories,2,13.12,North
+O00513,2025-07-26,C0096,P009,Headphones,Electronics,1,87.37,East
+O00514,2025-08-21,C0042,P008,Phone Stand,Accessories,1,13.09,North
+O00515,2025-08-23,C0109,P006,Notebook Set,Stationery,1,9.67,South
+O00516,2025-08-08,C0064,P004,Water Bottle,Home,1,15.15,East
+O00517,2025-10-08,C0017,P010,Coffee Mug,Home,1,11.07,East
+O00518,2025-12-16,C0006,P001,Wireless Mouse,Electronics,1,19.84,West
+O00519,2025-01-09,C0119,P002,Mechanical Keyboard,Electronics,2,64.81,North
+O00520,2025-08-08,C0089,P004,Water Bottle,Home,3,15.32,East
+O00521,2025-03-23,C0012,P005,Desk Lamp,Home,2,26.26,East
+O00522,2025-12-07,C0007,P003,USB-C Hub,Electronics,1,30.95,South
+O00523,2025-08-08,C0091,P002,Mechanical Keyboard,Electronics,1,61.55,North
+O00524,2025-03-09,C0029,P010,Coffee Mug,Home,1,10.98,North
+O00525,2025-12-23,C0105,P006,Notebook Set,Stationery,1,10.35,South
+O00526,2025-09-02,C0030,P002,Mechanical Keyboard,Electronics,1,68.95,North
+O00527,2025-02-22,C0048,P006,Notebook Set,Stationery,3,8.84,South
+O00528,2025-11-25,C0009,P003,USB-C Hub,Electronics,1,28.86,South
+O00529,2025-08-14,C0093,P006,Notebook Set,Stationery,1,10.11,West
+O00530,2025-11-12,C0111,P008,Phone Stand,Accessories,1,13.17,South
+O00531,2025-03-05,C0094,P010,Coffee Mug,Home,1,12.23,East
+O00532,2025-03-13,C0036,P004,Water Bottle,Home,2,13.36,Central
+O00533,2025-11-04,C0037,P010,Coffee Mug,Home,2,11.57,East
+O00534,2025-04-16,C0078,P009,Headphones,Electronics,1,84.1,East
+O00535,2025-11-27,C0101,P001,Wireless Mouse,Electronics,3,20.54,West
+O00536,2025-07-17,C0031,P002,Mechanical Keyboard,Electronics,1,66.99,Central
+O00537,2025-01-07,C0120,P006,Notebook Set,Stationery,1,9.36,Central
+O00538,2025-08-04,C0070,P006,Notebook Set,Stationery,2,10.14,North
+O00539,2025-01-09,C0009,P010,Coffee Mug,Home,1,10.42,North
+O00540,2025-07-23,C0037,P009,Headphones,Electronics,2,79.81,West
+O00541,2025-08-05,C0011,P007,Backpack,Accessories,2,48.88,South
+O00542,2025-05-23,C0040,P002,Mechanical Keyboard,Electronics,1,71.67,South
+O00543,2025-10-02,C0051,P006,Notebook Set,Stationery,1,10.15,North
+O00544,2025-06-08,C0094,P007,Backpack,Accessories,3,45.72,South
+O00545,2025-02-14,C0015,P007,Backpack,Accessories,1,49.63,East
+O00546,2025-12-08,C0016,P003,USB-C Hub,Electronics,1,29.77,North
+O00547,2025-03-25,C0045,P008,Phone Stand,Accessories,1,12.87,East
+O00548,2025-03-27,C0017,P006,Notebook Set,Stationery,2,10.38,North
+O00549,2025-01-16,C0104,P006,Notebook Set,Stationery,1,9.64,East
+O00550,2025-12-31,C0081,P010,Coffee Mug,Home,1,11.0,East
+O00551,2025-01-29,C0110,P008,Phone Stand,Accessories,1,11.77,East
+O00552,2025-02-22,C0087,P010,Coffee Mug,Home,2,10.45,Central
+O00553,2025-01-02,C0110,P001,Wireless Mouse,Electronics,2,17.65,West
+O00554,2025-07-06,C0118,P007,Backpack,Accessories,1,53.03,North
+O00555,2025-10-11,C0029,P007,Backpack,Accessories,1,47.6,East
+O00556,2025-05-19,C0074,P002,Mechanical Keyboard,Electronics,1,65.68,North
+O00557,2025-04-02,C0103,P004,Water Bottle,Home,1,12.74,West
+O00558,2025-02-05,C0111,P008,Phone Stand,Accessories,1,13.03,East
+O00559,2025-02-14,C0059,P009,Headphones,Electronics,1,74.59,Central
+O00560,2025-06-05,C0032,P010,Coffee Mug,Home,1,11.33,West
+O00561,2025-04-11,C0098,P009,Headphones,Electronics,2,73.72,West
+O00562,2025-01-13,C0070,P004,Water Bottle,Home,1,15.19,North
+O00563,2025-06-21,C0098,P001,Wireless Mouse,Electronics,2,20.11,East
+O00564,2025-02-23,C0068,P004,Water Bottle,Home,4,13.89,North
+O00565,2025-03-14,C0012,P005,Desk Lamp,Home,1,26.15,Central
+O00566,2025-07-31,C0059,P006,Notebook Set,Stationery,4,8.73,North
+O00567,2025-09-16,C0082,P003,USB-C Hub,Electronics,2,29.33,Central
+O00568,2025-02-01,C0085,P007,Backpack,Accessories,3,45.7,East
+O00569,2025-06-11,C0090,P007,Backpack,Accessories,2,46.65,West
+O00570,2025-05-20,C0010,P004,Water Bottle,Home,3,13.02,Central
+O00571,2025-02-25,C0014,P003,USB-C Hub,Electronics,1,32.08,West
+O00572,2025-03-03,C0046,P009,Headphones,Electronics,3,74.71,East
+O00573,2025-08-26,C0110,P005,Desk Lamp,Home,1,25.7,East
+O00574,2025-12-27,C0006,P010,Coffee Mug,Home,1,11.97,South
+O00575,2025-02-16,C0046,P004,Water Bottle,Home,1,12.75,East
+O00576,2025-05-14,C0004,P003,USB-C Hub,Electronics,3,34.82,Central
+O00577,2025-10-09,C0013,P004,Water Bottle,Home,1,15.08,South
+O00578,2025-03-04,C0008,P001,Wireless Mouse,Electronics,2,20.65,South
+O00579,2025-04-12,C0048,P007,Backpack,Accessories,2,53.1,North
+O00580,2025-10-26,C0034,P010,Coffee Mug,Home,3,10.08,North
+O00581,2025-04-12,C0104,P008,Phone Stand,Accessories,1,13.19,East
+O00582,2025-03-04,C0060,P001,Wireless Mouse,Electronics,1,20.41,West
+O00583,2025-07-22,C0004,P008,Phone Stand,Accessories,1,11.93,East
+O00584,2025-04-20,C0036,P003,USB-C Hub,Electronics,1,35.02,North
+O00585,2025-11-11,C0079,P010,Coffee Mug,Home,1,10.61,West
+O00586,2025-10-09,C0008,P008,Phone Stand,Accessories,1,11.81,West
+O00587,2025-04-13,C0032,P009,Headphones,Electronics,2,85.04,North
+O00588,2025-07-15,C0062,P006,Notebook Set,Stationery,1,9.56,Central
+O00589,2025-09-15,C0050,P006,Notebook Set,Stationery,1,8.6,Central
+O00590,2025-04-23,C0115,P001,Wireless Mouse,Electronics,2,17.79,West
+O00591,2025-09-29,C0099,P006,Notebook Set,Stationery,1,9.04,South
+O00592,2025-02-21,C0085,P004,Water Bottle,Home,1,14.24,North
+O00593,2025-04-23,C0109,P010,Coffee Mug,Home,4,10.84,South
+O00594,2025-04-01,C0076,P004,Water Bottle,Home,1,14.87,East
+O00595,2025-10-30,C0091,P001,Wireless Mouse,Electronics,2,20.51,Central
+O00596,2025-03-14,C0025,P010,Coffee Mug,Home,2,11.86,West
+O00597,2025-10-05,C0023,P005,Desk Lamp,Home,1,25.3,South
+O00598,2025-11-05,C0003,P004,Water Bottle,Home,1,12.6,Central
+O00599,2025-04-14,C0044,P003,USB-C Hub,Electronics,2,35.27,East
+O00600,2025-01-31,C0019,P001,Wireless Mouse,Electronics,1,20.38,North
+O00601,2025-09-27,C0010,P006,Notebook Set,Stationery,1,10.52,West
+O00602,2025-10-28,C0044,P002,Mechanical Keyboard,Electronics,1,60.45,South
+O00603,2025-08-12,C0084,P008,Phone Stand,Accessories,1,12.67,Central
+O00604,2025-12-22,C0101,P010,Coffee Mug,Home,1,11.51,South
+O00605,2025-07-13,C0094,P005,Desk Lamp,Home,2,25.52,North
+O00606,2025-12-26,C0051,P010,Coffee Mug,Home,2,11.77,Central
+O00607,2025-01-17,C0078,P003,USB-C Hub,Electronics,1,34.49,Central
+O00608,2025-04-24,C0014,P010,Coffee Mug,Home,3,10.24,North
+O00609,2025-05-02,C0041,P006,Notebook Set,Stationery,1,10.4,North
+O00610,2025-12-29,C0058,P006,Notebook Set,Stationery,1,8.99,North
+O00611,2025-06-29,C0101,P005,Desk Lamp,Home,1,24.76,West
+O00612,2025-08-13,C0022,P007,Backpack,Accessories,3,48.41,West
+O00613,2025-06-29,C0049,P009,Headphones,Electronics,1,79.43,Central
+O00614,2025-11-30,C0021,P004,Water Bottle,Home,1,15.06,North
+O00615,2025-05-31,C0041,P001,Wireless Mouse,Electronics,1,17.08,East
+O00616,2025-03-29,C0021,P007,Backpack,Accessories,2,48.98,North
+O00617,2025-06-23,C0079,P010,Coffee Mug,Home,3,11.6,West
+O00618,2025-12-01,C0078,P003,USB-C Hub,Electronics,3,29.91,North
+O00619,2025-06-19,C0025,P004,Water Bottle,Home,1,14.31,Central
+O00620,2025-05-16,C0039,P005,Desk Lamp,Home,1,25.05,Central
+O00621,2025-10-09,C0020,P008,Phone Stand,Accessories,1,10.81,North
+O00622,2025-05-31,C0062,P010,Coffee Mug,Home,1,9.96,South
+O00623,2025-11-23,C0011,P005,Desk Lamp,Home,1,25.45,West
+O00624,2025-08-30,C0115,P008,Phone Stand,Accessories,2,11.04,Central
+O00625,2025-07-18,C0048,P003,USB-C Hub,Electronics,3,31.4,West
+O00626,2025-01-23,C0057,P005,Desk Lamp,Home,1,26.12,East
+O00627,2025-10-16,C0020,P001,Wireless Mouse,Electronics,2,19.37,North
+O00628,2025-12-09,C0104,P006,Notebook Set,Stationery,1,10.58,Central
+O00629,2025-04-27,C0008,P009,Headphones,Electronics,2,85.32,West
+O00630,2025-10-02,C0074,P008,Phone Stand,Accessories,3,12.06,North
+O00631,2025-07-22,C0065,P001,Wireless Mouse,Electronics,1,18.75,Central
+O00632,2025-12-13,C0019,P010,Coffee Mug,Home,1,11.73,South
+O00633,2025-03-27,C0104,P004,Water Bottle,Home,1,12.73,North
+O00634,2025-12-16,C0026,P007,Backpack,Accessories,4,49.82,Central
+O00635,2025-05-13,C0117,P006,Notebook Set,Stationery,2,10.24,North
+O00636,2025-07-18,C0051,P009,Headphones,Electronics,1,85.99,Central
+O00637,2025-08-23,C0101,P001,Wireless Mouse,Electronics,2,19.04,West
+O00638,2025-02-27,C0020,P007,Backpack,Accessories,1,49.41,North
+O00639,2025-02-24,C0100,P010,Coffee Mug,Home,1,10.59,Central
+O00640,2025-06-26,C0034,P007,Backpack,Accessories,1,48.33,Central
+O00641,2025-08-31,C0023,P001,Wireless Mouse,Electronics,1,17.24,Central
+O00642,2025-12-15,C0005,P007,Backpack,Accessories,1,52.48,South
+O00643,2025-01-26,C0118,P008,Phone Stand,Accessories,1,11.78,East
+O00644,2025-06-05,C0036,P005,Desk Lamp,Home,2,29.94,North
+O00645,2025-04-27,C0039,P003,USB-C Hub,Electronics,4,31.92,East
+O00646,2025-05-18,C0078,P007,Backpack,Accessories,2,45.18,South
+O00647,2025-07-28,C0098,P008,Phone Stand,Accessories,1,11.79,North
+O00648,2025-09-21,C0009,P003,USB-C Hub,Electronics,1,32.37,South
+O00649,2025-09-26,C0004,P010,Coffee Mug,Home,1,12.02,South
+O00650,2025-01-30,C0005,P004,Water Bottle,Home,1,15.43,South
+O00651,2025-05-21,C0106,P006,Notebook Set,Stationery,1,9.38,North
+O00652,2025-12-15,C0031,P001,Wireless Mouse,Electronics,1,19.07,South
+O00653,2025-08-31,C0071,P010,Coffee Mug,Home,1,10.3,East
+O00654,2025-12-19,C0037,P002,Mechanical Keyboard,Electronics,1,59.21,Central
+O00655,2025-04-20,C0083,P004,Water Bottle,Home,1,13.24,West
+O00656,2025-09-20,C0111,P001,Wireless Mouse,Electronics,2,19.77,North
+O00657,2025-08-31,C0083,P003,USB-C Hub,Electronics,1,34.44,South
+O00658,2025-05-10,C0104,P010,Coffee Mug,Home,3,11.62,East
+O00659,2025-08-05,C0110,P007,Backpack,Accessories,1,45.86,West
+O00660,2025-06-04,C0106,P009,Headphones,Electronics,2,81.26,North
+O00661,2025-09-19,C0072,P006,Notebook Set,Stationery,2,9.82,East
+O00662,2025-12-17,C0062,P002,Mechanical Keyboard,Electronics,1,72.63,East
+O00663,2025-05-22,C0084,P005,Desk Lamp,Home,2,30.15,East
+O00664,2025-04-07,C0067,P003,USB-C Hub,Electronics,2,35.13,Central
+O00665,2025-07-26,C0088,P006,Notebook Set,Stationery,1,8.6,West
+O00666,2025-06-01,C0117,P005,Desk Lamp,Home,1,27.1,North
+O00667,2025-10-26,C0105,P010,Coffee Mug,Home,1,11.66,South
+O00668,2025-12-18,C0082,P009,Headphones,Electronics,2,86.86,East
+O00669,2025-09-17,C0109,P005,Desk Lamp,Home,1,28.73,Central
+O00670,2025-04-03,C0013,P005,Desk Lamp,Home,1,29.23,Central
+O00671,2025-04-04,C0084,P006,Notebook Set,Stationery,1,9.29,East
+O00672,2025-08-04,C0048,P006,Notebook Set,Stationery,1,9.16,North
+O00673,2025-08-29,C0111,P001,Wireless Mouse,Electronics,2,19.01,Central
+O00674,2025-02-06,C0114,P008,Phone Stand,Accessories,1,11.12,West
+O00675,2025-09-29,C0053,P005,Desk Lamp,Home,1,29.92,South
+O00676,2025-04-13,C0053,P006,Notebook Set,Stationery,4,10.42,West
+O00677,2025-03-15,C0111,P006,Notebook Set,Stationery,2,10.18,West
+O00678,2025-06-20,C0041,P003,USB-C Hub,Electronics,2,28.83,East
+O00679,2025-04-18,C0074,P003,USB-C Hub,Electronics,2,32.25,North
+O00680,2025-03-08,C0056,P010,Coffee Mug,Home,2,10.88,West
+O00681,2025-07-16,C0005,P001,Wireless Mouse,Electronics,1,19.62,North
+O00682,2025-06-14,C0025,P009,Headphones,Electronics,1,71.17,South
+O00683,2025-04-26,C0040,P006,Notebook Set,Stationery,1,9.35,Central
+O00684,2025-06-06,C0009,P003,USB-C Hub,Electronics,2,30.9,East
+O00685,2025-08-22,C0077,P009,Headphones,Electronics,1,78.64,South
+O00686,2025-06-25,C0046,P008,Phone Stand,Accessories,2,11.24,West
+O00687,2025-01-10,C0029,P004,Water Bottle,Home,2,13.0,North
+O00688,2025-10-29,C0022,P009,Headphones,Electronics,1,83.46,North
+O00689,2025-07-12,C0099,P005,Desk Lamp,Home,1,25.04,North
+O00690,2025-12-05,C0084,P002,Mechanical Keyboard,Electronics,2,59.19,North
+O00691,2025-08-02,C0049,P008,Phone Stand,Accessories,1,11.47,South
+O00692,2025-04-16,C0039,P001,Wireless Mouse,Electronics,1,17.06,Central
+O00693,2025-05-19,C0078,P010,Coffee Mug,Home,2,10.91,North
+O00694,2025-09-19,C0016,P010,Coffee Mug,Home,1,11.8,West
+O00695,2025-04-12,C0026,P010,Coffee Mug,Home,2,11.91,South
+O00696,2025-07-03,C0038,P007,Backpack,Accessories,1,48.99,South
+O00697,2025-12-19,C0043,P008,Phone Stand,Accessories,1,10.83,North
+O00698,2025-02-26,C0086,P010,Coffee Mug,Home,1,12.2,Central
+O00699,2025-02-08,C0116,P002,Mechanical Keyboard,Electronics,1,61.81,East
+O00700,2025-05-16,C0007,P008,Phone Stand,Accessories,1,11.26,North
+O00701,2025-05-29,C0103,P006,Notebook Set,Stationery,2,9.44,North
+O00702,2025-02-18,C0002,P001,Wireless Mouse,Electronics,2,19.35,South
+O00703,2025-06-18,C0115,P006,Notebook Set,Stationery,1,9.85,North
+O00704,2025-07-10,C0024,P006,Notebook Set,Stationery,1,9.39,West
+O00705,2025-05-20,C0089,P007,Backpack,Accessories,2,51.65,South
+O00706,2025-02-27,C0090,P003,USB-C Hub,Electronics,2,35.71,South
+O00707,2025-02-23,C0117,P007,Backpack,Accessories,1,51.67,West
+O00708,2025-04-03,C0049,P010,Coffee Mug,Home,2,11.38,South
+O00709,2025-09-05,C0015,P008,Phone Stand,Accessories,3,11.96,North
+O00710,2025-05-14,C0002,P006,Notebook Set,Stationery,2,9.97,Central
+O00711,2025-10-17,C0086,P004,Water Bottle,Home,3,14.2,Central
+O00712,2025-02-18,C0085,P007,Backpack,Accessories,2,48.29,West
+O00713,2025-03-18,C0115,P009,Headphones,Electronics,4,72.05,South
+O00714,2025-09-16,C0110,P008,Phone Stand,Accessories,1,11.24,West
+O00715,2025-06-14,C0043,P004,Water Bottle,Home,4,12.76,South
+O00716,2025-10-09,C0052,P007,Backpack,Accessories,2,44.03,West
+O00717,2025-10-21,C0012,P008,Phone Stand,Accessories,2,11.98,North
+O00718,2025-09-12,C0014,P001,Wireless Mouse,Electronics,1,16.8,Central
+O00719,2025-01-01,C0102,P002,Mechanical Keyboard,Electronics,1,67.35,East
+O00720,2025-09-18,C0027,P009,Headphones,Electronics,2,79.03,East
+O00721,2025-07-06,C0105,P001,Wireless Mouse,Electronics,1,18.5,Central
+O00722,2025-11-14,C0061,P010,Coffee Mug,Home,2,10.78,West
+O00723,2025-02-28,C0098,P002,Mechanical Keyboard,Electronics,2,58.53,East
+O00724,2025-11-21,C0071,P005,Desk Lamp,Home,1,29.0,North
+O00725,2025-03-26,C0018,P008,Phone Stand,Accessories,2,12.76,West
+O00726,2025-02-24,C0079,P005,Desk Lamp,Home,1,25.48,West
+O00727,2025-04-21,C0106,P008,Phone Stand,Accessories,2,12.69,North
+O00728,2025-08-01,C0119,P001,Wireless Mouse,Electronics,2,19.39,North
+O00729,2025-08-19,C0085,P008,Phone Stand,Accessories,1,12.13,West
+O00730,2025-01-03,C0095,P009,Headphones,Electronics,1,87.36,Central
+O00731,2025-09-05,C0100,P009,Headphones,Electronics,3,74.18,Central
+O00732,2025-03-30,C0014,P003,USB-C Hub,Electronics,1,33.03,East
+O00733,2025-09-16,C0054,P007,Backpack,Accessories,4,52.87,South
+O00734,2025-05-21,C0044,P007,Backpack,Accessories,4,47.98,South
+O00735,2025-03-12,C0078,P007,Backpack,Accessories,2,51.1,East
+O00736,2025-12-26,C0111,P009,Headphones,Electronics,1,83.91,Central
+O00737,2025-11-20,C0026,P004,Water Bottle,Home,1,14.8,East
+O00738,2025-12-11,C0091,P003,USB-C Hub,Electronics,2,35.55,Central
+O00739,2025-10-05,C0091,P006,Notebook Set,Stationery,1,9.29,West
+O00740,2025-10-26,C0086,P010,Coffee Mug,Home,2,11.53,Central
+O00741,2025-05-27,C0104,P007,Backpack,Accessories,1,44.32,West
+O00742,2025-03-16,C0086,P001,Wireless Mouse,Electronics,1,17.74,South
+O00743,2025-05-27,C0019,P005,Desk Lamp,Home,2,28.93,East
+O00744,2025-04-15,C0005,P009,Headphones,Electronics,1,78.97,Central
+O00745,2025-12-12,C0111,P009,Headphones,Electronics,1,82.35,West
+O00746,2025-05-02,C0101,P009,Headphones,Electronics,2,83.2,North
+O00747,2025-07-15,C0054,P007,Backpack,Accessories,3,53.5,East
+O00748,2025-10-10,C0002,P001,Wireless Mouse,Electronics,2,17.48,West
+O00749,2025-04-26,C0097,P006,Notebook Set,Stationery,1,10.09,South
+O00750,2025-04-10,C0058,P005,Desk Lamp,Home,1,28.88,South
+O00751,2025-03-30,C0016,P009,Headphones,Electronics,1,78.55,Central
+O00752,2025-05-16,C0021,P003,USB-C Hub,Electronics,1,30.6,East
+O00753,2025-08-27,C0006,P003,USB-C Hub,Electronics,1,31.07,North
+O00754,2025-11-17,C0108,P010,Coffee Mug,Home,2,11.09,Central
+O00755,2025-10-09,C0010,P006,Notebook Set,Stationery,2,9.21,South
+O00756,2025-04-05,C0009,P009,Headphones,Electronics,2,73.87,Central
+O00757,2025-10-02,C0012,P007,Backpack,Accessories,1,52.53,East
+O00758,2025-06-19,C0038,P006,Notebook Set,Stationery,1,10.12,Central
+O00759,2025-09-01,C0106,P009,Headphones,Electronics,2,82.38,North
+O00760,2025-12-09,C0058,P006,Notebook Set,Stationery,1,9.89,Central
+O00761,2025-05-05,C0088,P001,Wireless Mouse,Electronics,3,18.2,North
+O00762,2025-07-17,C0070,P005,Desk Lamp,Home,2,24.9,Central
+O00763,2025-07-11,C0103,P009,Headphones,Electronics,1,79.56,East
+O00764,2025-11-30,C0042,P004,Water Bottle,Home,1,15.52,South
+O00765,2025-10-03,C0001,P009,Headphones,Electronics,2,74.76,South
+O00766,2025-12-17,C0107,P007,Backpack,Accessories,1,48.88,West
+O00767,2025-11-28,C0096,P002,Mechanical Keyboard,Electronics,2,58.84,East
+O00768,2025-01-20,C0010,P002,Mechanical Keyboard,Electronics,1,69.86,Central
+O00769,2025-02-06,C0106,P010,Coffee Mug,Home,1,10.53,West
+O00770,2025-08-19,C0056,P007,Backpack,Accessories,1,47.31,North
+O00771,2025-10-01,C0083,P001,Wireless Mouse,Electronics,2,16.91,Central
+O00772,2025-01-24,C0046,P002,Mechanical Keyboard,Electronics,3,60.02,East
+O00773,2025-11-07,C0037,P002,Mechanical Keyboard,Electronics,2,64.76,West
+O00774,2025-12-05,C0061,P001,Wireless Mouse,Electronics,1,17.54,West
+O00775,2025-10-07,C0082,P005,Desk Lamp,Home,1,28.85,East
+O00776,2025-01-06,C0112,P009,Headphones,Electronics,1,73.24,North
+O00777,2025-10-21,C0051,P010,Coffee Mug,Home,1,12.19,East
+O00778,2025-04-18,C0028,P006,Notebook Set,Stationery,1,9.9,Central
+O00779,2025-03-14,C0024,P003,USB-C Hub,Electronics,1,34.68,South
+O00780,2025-02-28,C0086,P003,USB-C Hub,Electronics,2,34.8,Central
+O00781,2025-08-25,C0010,P009,Headphones,Electronics,1,72.27,North
+O00782,2025-04-12,C0063,P010,Coffee Mug,Home,3,10.76,South
+O00783,2025-02-21,C0080,P005,Desk Lamp,Home,1,25.92,West
+O00784,2025-08-19,C0079,P006,Notebook Set,Stationery,2,10.0,South
+O00785,2025-10-17,C0047,P010,Coffee Mug,Home,2,12.22,South
+O00786,2025-01-03,C0032,P006,Notebook Set,Stationery,2,10.04,West
+O00787,2025-05-22,C0018,P006,Notebook Set,Stationery,2,9.24,West
+O00788,2025-08-25,C0046,P008,Phone Stand,Accessories,2,12.09,North
+O00789,2025-03-31,C0011,P010,Coffee Mug,Home,2,11.98,South
+O00790,2025-10-03,C0034,P004,Water Bottle,Home,2,14.53,North
+O00791,2025-01-10,C0081,P009,Headphones,Electronics,1,81.21,West
+O00792,2025-10-30,C0117,P004,Water Bottle,Home,1,13.4,Central
+O00793,2025-08-30,C0047,P003,USB-C Hub,Electronics,1,35.08,Central
+O00794,2025-05-29,C0060,P003,USB-C Hub,Electronics,1,29.44,East
+O00795,2025-09-15,C0085,P001,Wireless Mouse,Electronics,1,20.57,Central
+O00796,2025-12-17,C0097,P003,USB-C Hub,Electronics,1,31.94,South
+O00797,2025-10-17,C0085,P010,Coffee Mug,Home,3,10.25,West
+O00798,2025-07-03,C0029,P001,Wireless Mouse,Electronics,2,17.59,East
+O00799,2025-07-09,C0006,P004,Water Bottle,Home,2,14.2,East
+O00800,2025-07-18,C0118,P008,Phone Stand,Accessories,1,10.92,East
+O00101,2025-12-09,C0093,P007,Backpack,Accessories,1,48.14,South
